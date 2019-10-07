@@ -8,7 +8,7 @@ How many times does the loop body run each frame, once the x and y arrays are fu
 0
 
 What are two ways of increasing the spacing between rings?
-one is chang the number 20 in "i = i + 10" to a larger number.
+one is change the radius of the circle(the number 20 in "i = i + 10" to a larger number). The second one has increased the distance between the circle and circle.
 
 How can you make the ellipse trail longer?
-chang the numeber -50, both in "x = x.slice(-50)" and "y = y.slice(-50)", to a smaller number
+change the numeber -50, both in "x = x.slice(-50)" and "y = y.slice(-50)", to a smaller number
