@@ -10,7 +10,7 @@ function draw() {
   //stroke(x, y, 100);
   //point(x, y);
   {
-    for (var i = 0; i<100; i++){
+    for (var i = 0; i<1000; i++){
       var x = random(width);
       var y = random(height)
       
